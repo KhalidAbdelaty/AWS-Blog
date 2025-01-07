@@ -108,11 +108,17 @@ The whole chain of transactional raw data transformation into the denormalized O
 
 Modular structuring, as explained in the book *Andreas Kretz's Data Engineering Cookbook*, allows for flexibility with iterations in enhancement or improvement as time progresses.  
 
+![Finalised E-Commerce Data Pipeline.jpeg](https://github.com/KhalidAbdelaty/AWS-Blog/blob/main/jfs.jpeg)
+
+
 ---
 
 ## Next Steps  
 
 Future work will include a detailed comparison of AWS-provided tools (e.g., **Kinesis**) versus open-source options (e.g., **Kafka**) as well as building the ingestion pipeline. Detailed updates will be provided on my GitHub repository, and a demo video will be shared at the end.  
+
+![Next Steps: Construct the Ingestion Pipeline.jpeg](https://github.com/KhalidAbdelaty/AWS-Blog/blob/main/kdd.jpeg)
+
 
 ---
 
